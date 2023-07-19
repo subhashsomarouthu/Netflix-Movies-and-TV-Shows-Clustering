@@ -15,3 +15,27 @@ Clustering similar content
 Recommendation system
 
 
+# MAchine learning models
+
+KMeans Clustering
+
+Hierarichal Clustering (Agglomerative approach)
+
+# Best Model
+
+Kmeans, using silhouette analysis and Elbow method the best model produced a silhouette score of 0.3 with 8 clusters. It also has davis-bould score of 1.39.
+
+Agglomarative Hierarchical clustering using dendrogram produced a silhouette score of 0.316 similar to kmeans and davis-bound score of 1.33 with 8 clusters.
+
+Based on the evaluation metrics and business objective, both kmeans and Agglomarative hierarchical clustering algorithms are doing good in job in clustering similar content with 8 clusters.
+
+
+# Limitations
+
+Certain features like user watch time, number of subscribers per month would have given us more insight into whether duration and regional content affecting subscribers.
+
+# Future work
+
+We can use Topic modeling techniques on text based features and then cluster the similar content. It would save computational time and also can build more precise clusters.
+
+
