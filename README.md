@@ -15,7 +15,7 @@ Clustering similar content
 Recommendation system
 
 
-# MAchine learning models
+# Machine learning models
 
 KMeans Clustering
 
