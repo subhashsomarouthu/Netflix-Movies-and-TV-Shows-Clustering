@@ -1,4 +1,4 @@
-
+## AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)
 # Netflix Movies and TV Shows Clustering
 
 ## Table of Contents
@@ -23,7 +23,7 @@ The dataset used in this project contains information related to Netflix movies 
 
 To execute this project and explore Netflix's content landscape, follow these steps:
 
-1.Open the Jupyter Notebook file named Netflix_Movies_and_Tv_shows_Clustering.ipynb.
+1.Open the Jupyter Notebook file named Netflix_Movies_and_Tv_Shows_Clustering.ipynb.
 
 2.Execute the notebook cell by cell to load and preprocess the data, perform exploratory data analysis, apply clustering algorithms, and visualize the results.
 
