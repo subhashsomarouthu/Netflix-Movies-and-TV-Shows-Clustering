@@ -1,4 +1,4 @@
-## AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)
+                                           ## AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)
 # Netflix Movies and TV Shows Clustering
 
 ## Table of Contents
